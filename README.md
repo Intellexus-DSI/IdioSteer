@@ -113,10 +113,33 @@ judge reasoning). Do not add raw completions to this repo.
 Code under **Apache-2.0** (`LICENSE`); data & result artifacts under **CC BY 4.0** (`LICENSE-DATA`).
 `requirements.txt` is pinned to the exact experiment versions for reproducibility.
 
-## 📝 Citation
-See `CITATION.cff`.
+## 📜 Citation
+
+If you use IdioSteer in your research, please cite:
+
+**BibTeX:** TBD
+
+*Paper under review — citation will be added upon publication.*
+
+This benchmark builds on the **IdioLink** dataset; please also cite IdioLink:
+
+```bibtex
+@misc{hashiloni2026idiolinkretrievingmeaningwords,
+  title={IdioLink: Retrieving Meaning Beyond Words Across Idiomatic and Literal Expressions},
+  author={Kai Golan Hashiloni and Daniel Fadlon and Lior Livyatan and Ofri Hefetz and Jiahuan Pei and Kfir Bar},
+  year={2026},
+  eprint={2605.22247},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2605.22247},
+}
+```
 
 ## ⚠️ Known limitations
 Generation is sampling-based (aggregate rates stable, exact text not reproducible); the judge depends on
 a hosted model; Gemma-3 cross-model cosines are anisotropy-inflated (report whitened geometry); IdioLink
 is not redistributed.
+
+## 📫 Contact
+For questions or contributions, please open an issue on the
+[GitHub repository](https://github.com/Intellexus-DSI/IdioSteer/issues).
