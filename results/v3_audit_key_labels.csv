@@ -1,0 +1,196 @@
+blind_id,model,batch,stratum,condition,vector_type,coefficient,idiom,variant,sentence_id,sample_index,judge_label
+oCCxKr,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,out of the blue,3,57,1,figurative
+1vIWc7,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,behind bars,4,8,4,incoherent
+C6QNJy,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,spill the beans,1,80,2,literal
+Ms4h7h,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,in the pink,5,44,0,figurative
+Se4vg2,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,on ice,4,53,4,figurative
+V76a1P,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,behind bars,1,5,1,literal
+KvsLrg,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,spill the beans,2,81,4,figurative
+OQ3ntG,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,up in the air,3,97,2,figurative
+i0Z0AL,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,break the ice,5,14,0,incoherent
+ZcwNjK,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,in hot water,3,27,3,figurative
+HeIIQr,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,rough edges,2,66,1,figurative
+3XSFgJ,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,at the crossroads,3,2,4,literal
+CkaCqn,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,see red,5,74,0,literal
+QKyfyl,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,in stitches,5,34,3,figurative
+Z8EVeI,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,shut the door on,3,77,2,figurative
+z4J7ut,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,lie low,3,47,0,literal
+mglhJ1,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,have a ball,4,23,4,figurative
+LcaEL4,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,pull someone's leg,3,62,0,figurative
+qPr0ak,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,under the sun,3,92,0,figurative
+ShZ5PF,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,take a bow,1,85,0,figurative
+yhPQF0,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,out of the blue,2,56,1,figurative
+zBzCvL,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,green light,1,15,4,literal
+ROOJwR,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,in the fast lane,5,39,3,literal
+IMGdNZ,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,take a bow,5,89,1,literal
+d40xs5,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,in the pink,3,42,0,figurative
+L17GSB,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,green light,2,16,3,literal
+jRsTQF,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,pull someone's leg,2,61,1,literal
+R6516z,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,have a ball,5,24,4,literal
+a3rFwH,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,shut the door on,4,78,2,incoherent
+OEkiuf,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,in the fast lane,5,39,2,incoherent
+6srtBk,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,spill the beans,3,82,1,figurative
+5JLCKk,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,see red,3,72,4,figurative
+fDXevg,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,behind bars,2,6,4,incoherent
+y7QMVm,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,in stitches,1,30,4,literal
+NiP3gM,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,under the sun,5,94,4,figurative
+sDQKBI,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,up in the air,2,96,1,figurative
+RVYyca,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,break the ice,2,11,3,literal
+m6wj4k,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,rough edges,3,67,0,literal
+BFVxYr,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,in hot water,4,28,2,incoherent
+RYd0PA,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,at the crossroads,1,0,3,literal
+EqevdO,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,out of the blue,3,57,4,figurative
+rR3Hbi,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,on ice,4,53,3,literal
+N3eYf7,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,lie low,1,45,4,literal
+LlQK67,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,in stitches,3,32,0,figurative
+FtmsFd,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,rough edges,2,66,0,figurative
+4SJYu6,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,in the pink,2,41,3,figurative
+n22X63,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,have a ball,3,22,2,literal
+3DpX5L,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,under the sun,4,93,0,figurative
+yUQOnc,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,break the ice,1,10,0,literal
+3ryOqE,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,at the crossroads,3,2,0,literal
+ysBnjb,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,behind bars,5,9,1,incoherent
+apOHkE,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,up in the air,2,96,4,figurative
+zGzeCE,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,shut the door on,2,76,3,incoherent
+waVrmJ,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,pull someone's leg,4,63,0,incoherent
+AF1CXI,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,spill the beans,4,83,4,figurative
+SADWcG,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,lie low,4,48,2,figurative
+NkO7rs,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,out of the blue,3,57,0,figurative
+VT7zvw,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,in hot water,2,26,3,figurative
+X1uklY,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,on ice,1,50,4,figurative
+eZuK2w,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,at the crossroads,2,1,1,literal
+xilBCx,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,spill the beans,5,84,0,figurative
+24XYM0,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,take a bow,3,87,1,figurative
+shZFdM,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,in the fast lane,3,37,3,figurative
+4HEiu8,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,lie low,2,46,4,literal
+TWQXCZ,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,on ice,5,54,2,figurative
+EOwxnG,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,have a ball,1,20,2,literal
+7DaRWj,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+10,v_BRY_concreteness,+10,out of the blue,4,58,4,figurative
+RVFj5o,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+15,v_BRY_concreteness,+15,in stitches,1,30,3,figurative
+peU0Kt,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,in hot water,5,29,4,figurative
+FJQuXO,meta-llama/Llama-3.2-3B,C,v_BRY,v_BRY_raw_+20,v_BRY_concreteness,+20,behind bars,4,8,3,figurative
+LQGerU,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,out of the blue,1,55,1,literal
+P6UgVt,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,behind bars,1,5,0,literal
+RmfyQK,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,spill the beans,2,81,2,figurative
+9abDCA,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in the pink,5,44,2,literal
+AOOc1t,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,break the ice,2,11,4,figurative
+3E9lh1,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,see red,1,70,4,figurative
+OQltFy,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,spill the beans,1,80,4,figurative
+ltRcz5,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,at the crossroads,1,0,2,literal
+MQCjTY,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,lie low,1,45,1,incoherent
+NWljTj,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,up in the air,5,99,4,figurative
+aKaB2F,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,out of the blue,1,55,3,literal
+2I3RfL,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,pull someone's leg,4,63,1,figurative
+lQl5yD,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,green light,5,19,0,incoherent
+Ogv1YR,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,shut the door on,5,79,1,figurative
+b6J2Ix,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in the fast lane,5,39,4,literal
+rS5hPN,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,in the pink,4,43,1,literal
+Il59vf,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,on ice,1,50,3,incoherent
+B06WiW,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,take a bow,2,86,4,literal
+XeVPio,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,under the sun,3,92,1,figurative
+YwT0Yt,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in the pink,5,44,1,figurative
+93nZIH,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,pull someone's leg,3,62,1,figurative
+1fh5Xd,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,in the fast lane,2,36,0,figurative
+GcAULx,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,break the ice,1,10,3,figurative
+zHHiZb,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,shut the door on,4,78,3,literal
+iSeXU5,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,on ice,3,52,1,incoherent
+mrbCHL,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,take a bow,4,88,2,figurative
+Q2I3Ss,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,green light,1,15,3,figurative
+pdRJwU,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,rough edges,1,65,3,figurative
+oTtR7L,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,have a ball,3,22,1,literal
+OyUvjO,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,in stitches,3,32,4,figurative
+9Cx7rB,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,out of the blue,1,55,4,figurative
+YXKpTL,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,up in the air,4,98,0,figurative
+xSJ8DN,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,behind bars,5,9,3,literal
+3PUajk,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,under the sun,5,94,2,incoherent
+bpTVAx,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,see red,5,74,4,literal
+CQ4gaw,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,up in the air,1,95,3,literal
+6SUamx,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,shut the door on,2,76,2,literal
+QpBumi,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,break the ice,1,10,4,figurative
+2Ye9xT,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,at the crossroads,1,0,0,literal
+bM6NsQ,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,under the sun,4,93,3,incoherent
+USbDno,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,green light,3,17,0,figurative
+jvhmEZ,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,in the pink,1,40,2,figurative
+NQVrWy,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in the fast lane,1,35,2,figurative
+U4TZql,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,see red,2,71,2,literal
+F1ee8w,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,spill the beans,5,84,1,incoherent
+LsWLp5,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in stitches,1,30,0,literal
+8kmjjy,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,take a bow,3,87,0,incoherent
+Ntbv86,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,out of the blue,5,59,2,literal
+s6kZXS,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,on ice,5,54,0,figurative
+MHyoS6,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,have a ball,3,22,3,figurative
+saRb1W,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in hot water,4,28,1,incoherent
+3OIcxc,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,rough edges,4,68,3,figurative
+PLlBl3,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,lie low,3,47,3,figurative
+AFbyNK,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,behind bars,1,5,2,literal
+s0AD9d,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,see red,1,70,3,incoherent
+7v3Aeh,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,break the ice,2,11,0,figurative
+VXzZ0I,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,take a bow,2,86,3,literal
+owQfFk,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,lie low,4,48,3,figurative
+w0ABwf,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,rough edges,3,67,4,literal
+CzecW8,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,on ice,2,51,0,incoherent
+iLNSJN,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in stitches,2,31,0,literal
+rpyCVx,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,in the fast lane,4,38,0,literal
+lGeL84,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,shut the door on,1,75,1,figurative
+4p6TBL,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,spill the beans,5,84,3,figurative
+0eg9mY,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,at the crossroads,3,2,3,literal
+7FC7zm,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,have a ball,2,21,1,figurative
+wDuEQP,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,pull someone's leg,3,62,3,figurative
+oLYTR3,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,in hot water,1,25,3,figurative
+0hnKpI,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-10,v_PERP_idiom_orthogonal,-10,green light,5,19,3,figurative
+vCfppH,meta-llama/Llama-3.2-3B,C,v_PERP,v_PERP_raw_-15,v_PERP_idiom_orthogonal,-15,under the sun,3,92,3,figurative
+tJwth3,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-15,probe,-15,up in the air,2,96,1,figurative
+IE7OVp,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-15,probe,-15,at the crossroads,5,4,0,figurative
+QAqX4Z,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-20,probe,-20,green light,1,15,0,figurative
+ita06z,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-20,probe,-20,in the fast lane,1,35,0,figurative
+471vxS,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-15,probe,-15,in the pink,4,43,0,figurative
+QSDyUA,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-20,probe,-20,out of the blue,2,56,0,incoherent
+6yFs9J,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-20,probe,-20,pull someone's leg,3,62,4,figurative
+3gdM85,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-20,probe,-20,on ice,4,53,0,figurative
+iOFhY4,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-15,probe,-15,in hot water,3,27,0,figurative
+9Y77mz,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-15,probe,-15,spill the beans,4,83,1,figurative
+Shiz4w,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-15,probe,-15,lie low,4,48,4,literal
+rAe623,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-20,probe,-20,under the sun,2,91,1,figurative
+qVoEV6,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-10,probe,-10,in the fast lane,2,36,1,figurative
+XTgOj9,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-10,probe,-10,break the ice,2,11,2,literal
+v4QSzz,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-10,probe,-10,behind bars,1,5,1,literal
+8Q9lVn,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-10,probe,-10,in stitches,3,32,4,figurative
+quSune,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-10,probe,-10,under the sun,2,91,4,figurative
+YQIRVx,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-10,probe,-10,shut the door on,3,77,3,figurative
+HvcJeC,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-5,probe,-5,take a bow,2,86,0,literal
+WZXI2k,meta-llama/Llama-3.2-3B,D,probe,probe_alpha_-5,probe,-5,out of the blue,5,59,0,figurative
+AVuCCW,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,under the sun,4,93,0,figurative
+uWR74t,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,rough edges,3,67,1,incoherent
+f5cGhK,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,see red,1,70,0,figurative
+zHPNM7,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,at the crossroads,2,1,0,incoherent
+ZGhqNE,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,on ice,3,52,0,incoherent
+308fjo,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,out of the blue,3,57,0,figurative
+H1zikl,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,pull someone's leg,5,64,2,incoherent
+MTonIH,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,up in the air,1,95,0,incoherent
+JVCqS2,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,break the ice,2,11,1,literal
+S793lN,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,spill the beans,3,82,4,incoherent
+GA50Im,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,lie low,2,46,1,incoherent
+YqeoR8,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,green light,1,15,1,incoherent
+6fM7pH,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,in hot water,2,26,0,figurative
+e8Hmxc,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,have a ball,5,24,2,incoherent
+fQBYtf,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,shut the door on,4,78,3,incoherent
+POIe1I,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,in the pink,3,42,3,literal
+2C9iJS,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,take a bow,4,88,3,incoherent
+Ofwn1U,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,behind bars,3,7,4,figurative
+zeY5zE,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,out of the blue,2,56,2,figurative
+TdDzcK,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,in stitches,5,34,3,incoherent
+qsuhvy,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,in the pink,2,41,0,figurative
+hyKCX8,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,behind bars,4,8,3,figurative
+R1yeip,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,at the crossroads,5,4,2,figurative
+pOWXWg,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,under the sun,4,93,1,figurative
+BR6wpR,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,in the fast lane,3,37,0,figurative
+pJVzMM,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,rough edges,2,66,0,figurative
+9lqDrO,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,on ice,2,51,3,figurative
+j6lvpf,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,pull someone's leg,5,64,1,literal
+BKOl00,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,lie low,1,45,2,figurative
+f3Rbn8,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_-120deg,mean_diff,-120deg,shut the door on,1,75,0,incoherent
+iY3lvJ,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,break the ice,5,14,1,figurative
+tJTHzb,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,see red,1,70,1,incoherent
+nPNyjB,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,have a ball,4,23,2,incoherent
+O7wEW8,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,spill the beans,2,81,2,figurative
+BmIaXq,meta-llama/Llama-3.2-3B,D,md_angular_extreme,angular_120deg,mean_diff,120deg,up in the air,2,96,2,figurative

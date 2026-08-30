@@ -1,0 +1,6 @@
+# API keys (optional). Environment variables take precedence over this file.
+# Copy to keys.yaml (gitignored) OR export as env vars:
+#   export OPENROUTER_API_KEY=...   (LLM-as-judge, run_judge.py)
+#   export HF_TOKEN=...             (gated Llama/Gemma weights)
+openrouter_api_key: "your-openrouter-key-here"
+hf_token: "your-huggingface-token-here"

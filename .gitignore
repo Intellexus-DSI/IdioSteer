@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets / local settings
+keys.yaml
+.env
+
+# Caches, logs, scratch
+*.log
+nohup.out
+wandb/
+.DS_Store
+
+# Test temp fixtures
+tests/_tmp_*/

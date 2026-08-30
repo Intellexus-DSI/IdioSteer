@@ -1,0 +1,33 @@
+seed: 42
+device: auto            # auto, cuda, cpu
+hf_cache: null          # null -> use $HF_HOME
+
+paths:
+  data: data
+  assets: assets
+  results: results
+
+# Canonical read (source) layer per model, on the HF hidden_states index.
+models:
+  llama3b:    {hf: meta-llama/Llama-3.2-3B, source_layer: 14, dtype: float16}
+  llama8b:    {hf: meta-llama/Llama-3.1-8B, source_layer: 16, dtype: float16}
+  gemma2_2b:  {hf: google/gemma-2-2b,       source_layer: 20, dtype: float16}
+  gemma3_4b:  {hf: google/gemma-3-4b-pt,    source_layer: 17, dtype: bfloat16}
+  gemma3_12b: {hf: google/gemma-3-12b-pt,   source_layer: 24, dtype: bfloat16}
+
+steering:
+  apply_layer: 2                        # canonical injection layer (forward hook on decoder block)
+  multipliers: [-3.0, -2.0, 2.0, 3.0]   # alpha = multiplier * ||md_source||
+  target_position: last_idiom_token
+  generation: {k: 5, max_new_tokens: 50, temperature: 0.7, top_p: 0.9}
+
+concreteness:
+  frames: 3
+  brysbaert_threshold: {concrete: 4.5, abstract: 2.0}
+
+judge:
+  model: google/gemma-4-31b-it
+  prompt_version: v14_coherence_strict
+  temperature: 0.0
+  max_tokens: 700
+  max_workers: 5

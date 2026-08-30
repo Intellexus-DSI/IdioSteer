@@ -1,0 +1,100 @@
+{
+  "conventions_note": "each value labeled by convention; raw=all-gens judge label; coherent-only excludes incoherent; corrected=batch-C confusion",
+  "baseline_paper_conv_all_gens": 0.116,
+  "random_band": {
+    "random_additive": 0.259,
+    "random_angular": 0.201,
+    "source": "p1 literal-direction half"
+  },
+  "v_IDIOM": {
+    "best_alpha_all_gens": 0.518,
+    "pooled_coherent_only": 0.5517,
+    "corrected_headline_from_p4": 0.5347
+  },
+  "v_BRY": {
+    "best_alpha_raw": 0.432,
+    "pooled_raw": 0.4233,
+    "pooled_corrected": 0.362
+  },
+  "v_PERP": {
+    "best_alpha_raw": 0.344,
+    "pooled_raw": 0.335,
+    "pooled_corrected": 0.3087
+  },
+  "geometry_llama3b": {
+    "cos_idiom_bry": -0.3938,
+    "cos_idiom_gjbw": -0.3006,
+    "cos_gjbw_bry": 0.6505
+  },
+  "ablation_norm_shares": {
+    "proj_norm": 0.4143,
+    "resid_norm": 0.9101,
+    "note": "spec '0.39/0.92' = |cos(vIDIOM,vBRY)| and resid-norm; proj-norm=0.414"
+  },
+  "flagship_per_idiom_coherent_only_pooled": {
+    "out of the blue": {
+      "baseline": 0.0,
+      "vIDIOM": 0.3182,
+      "vPERP": 0.6842,
+      "vBRY": 0.0685
+    },
+    "behind bars": {
+      "baseline": 0.28,
+      "vIDIOM": 0.4565,
+      "vPERP": 0.5429,
+      "vBRY": 0.2295
+    },
+    "spill the beans": {
+      "baseline": 0.04,
+      "vIDIOM": 0.6842,
+      "vPERP": 0.1591,
+      "vBRY": 0.4697
+    },
+    "in the pink": {
+      "baseline": 0.0,
+      "vIDIOM": 0.5625,
+      "vPERP": 0.14,
+      "vBRY": 0.3243
+    }
+  },
+  "per_idiom_corr_r_PERP_vs_BRY_pooled": 0.2508,
+  "breadth": {
+    "pooled_gt_0.14_above_baseline": "19/20",
+    "pooled_gt_0.40": "16/20",
+    "source": "p2"
+  },
+  "verifications": {
+    "abs_cos_vPAR_vBRY": 0.9506,
+    "CI_separated_idioms_PERP_vs_BRY": [
+      {
+        "idiom": "behind bars",
+        "higher": "PERP",
+        "gap": 0.313
+      },
+      {
+        "idiom": "break the ice",
+        "higher": "BRY",
+        "gap": 0.263
+      },
+      {
+        "idiom": "lie low",
+        "higher": "BRY",
+        "gap": 0.325
+      },
+      {
+        "idiom": "out of the blue",
+        "higher": "PERP",
+        "gap": 0.616
+      },
+      {
+        "idiom": "spill the beans",
+        "higher": "BRY",
+        "gap": 0.311
+      }
+    ]
+  },
+  "flags": [
+    "ablation proj-norm is 0.414 (spec said 0.39); note 0.39 == |cos(vIDIOM,vBRY)|, proj-norm differs",
+    "BRY-separated missing ['green light', \"pull someone's leg\"]"
+  ]
+}

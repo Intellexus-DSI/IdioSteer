@@ -1,0 +1,3 @@
+She thought about the {WORD} for a while.
+They discussed the {WORD} during the meeting.
+He mentioned the {WORD} in his letter.

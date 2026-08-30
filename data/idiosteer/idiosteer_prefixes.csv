@@ -1,0 +1,101 @@
+item_id,idiom,variant,prefix,idiom_char_start,idiom_char_end,idiom_surface
+0,at the crossroads,1,That man was at the crossroads,13,30,at the crossroads
+1,at the crossroads,2,The newly elected senator found herself at the crossroads,40,57,at the crossroads
+2,at the crossroads,3,The weary traveler stood at the crossroads,25,42,at the crossroads
+3,at the crossroads,4,"After the conversation ended, he realized he was at the crossroads",49,66,at the crossroads
+4,at the crossroads,5,"Looking back on everything that had happened, she knew she was at the crossroads",63,80,at the crossroads
+5,behind bars,1,The manager spent his entire career working behind bars,44,55,behind bars
+6,behind bars,2,"From the way he spoke about the past, you could tell he had lived behind bars",66,77,behind bars
+7,behind bars,3,The report suggested that much of his adult life was spent behind bars,59,70,behind bars
+8,behind bars,4,The great poet wrote his most powerful work behind bars,44,55,behind bars
+9,behind bars,5,The jazz pianist spent decades performing behind bars,42,53,behind bars
+10,break the ice,1,"During the party, Sarah tried to break the ice",33,46,break the ice
+11,break the ice,2,"As the temperature dropped at the lakeside camp, the scout leader realized it was finally time to break the ice",98,111,break the ice
+12,break the ice,3,The leaders arrived early to break the ice,29,42,break the ice
+13,break the ice,4,"Looking back, she realized she never quite managed to break the ice",54,67,break the ice
+14,break the ice,5,"They exchanged polite smiles, unsure how to break the ice",44,57,break the ice
+15,green light,1,The prime minister is showing a green light,32,43,green light
+16,green light,2,"The researcher monitored the experimental chamber through the glass, waiting for the green light",85,96,green light
+17,green light,3,The special forces team were waiting for the green light,45,56,green light
+18,green light,4,"After checking the controls, they waited for the green light",49,60,green light
+19,green light,5,The ethics committee gave the village inhabitants a green light,52,63,green light
+20,have a ball,1,The software developers had a ball,30,34,ball
+21,have a ball,2,People kept insisting they would have a ball,33,44,have a ball
+22,have a ball,3,"After the long ceremony ended, the organizer announced that it was time for the guests to have a ball",90,101,have a ball
+23,have a ball,4,"From the way they talked afterward, it sounded like they had a ball",63,67,ball
+24,have a ball,5,"Watching the group from a distance, it was clear they had a ball",60,64,ball
+25,in hot water,1,"While trying to repair the old system, the contractor found himself in hot water",68,80,in hot water
+26,in hot water,2,"He said nothing at first, but deep down he knew he was in hot water",55,67,in hot water
+27,in hot water,3,What started as a small shortcut quickly left her in hot water,50,62,in hot water
+28,in hot water,4,"While running the experiment alone for the first time, the graduate student found herself in hot water",90,102,in hot water
+29,in hot water,5,"During her first week on the job, the junior analyst suddenly found herself in hot water",76,88,in hot water
+30,in stitches,1,The clown's move ended with him in stitches,32,43,in stitches
+31,in stitches,2,The chaotic scene in the workshop resulted in several people being in stitches,67,78,in stitches
+32,in stitches,3,"If the timing had been better, the moment might have left them in stitches",63,74,in stitches
+33,in stitches,4,"By the end of the long session on the factory floor, several of the workers were in stitches",81,92,in stitches
+34,in stitches,5,The unexpected guest had all the workers in stitches,41,52,in stitches
+35,in the fast lane,1,"As the camera panned across the bustling cityscape, the narrator spoke of those who lived in the fast lane",90,106,in the fast lane
+36,in the fast lane,2,"The documentary followed several individuals who, by choice or necessity, spent their days in the fast lane",91,107,in the fast lane
+37,in the fast lane,3,"During the transition to the new international headquarters, the newly appointed executive suddenly found himself in the fast lane",114,130,in the fast lane
+38,in the fast lane,4,"She looked outside and realized that for the next phase of the journey, they would be in the fast lane",86,102,in the fast lane
+39,in the fast lane,5,The elderly athlete realized he was in the fast lane,36,52,in the fast lane
+40,in the pink,1,"After the long winter, the gardener checked on the seedlings and found them in the pink",76,87,in the pink
+41,in the pink,2,"The biologist noted that after the habitat was properly balanced, the entire population appeared to be in the pink",103,114,in the pink
+42,in the pink,3,"According to the latest update, everything seemed to be in the pink",56,67,in the pink
+43,in the pink,4,"As the morning light hit the mist over the valley, the early hikers felt they were in the pink",83,94,in the pink
+44,in the pink,5,"From the outside, it looked like things were in the pink",45,56,in the pink
+45,lie low,1,The disgraced coach advised his star athlete to lie low,48,55,lie low
+46,lie low,2,"If the situation escalated further, he would need to lie low",53,60,lie low
+47,lie low,3,"After the scandal broke, the actor decided to lie low",46,53,lie low
+48,lie low,4,"Until the trial concluded, the witness had to lie low",46,53,lie low
+49,lie low,5,Experience had taught him that sometimes the best move was to lie low,62,69,lie low
+50,on ice,1,The scientist put the project on ice,30,36,on ice
+51,on ice,2,"After hearing the latest feedback, the entire proposal was put on ice",63,69,on ice
+52,on ice,3,"Until the next phase begins, the initiative will remain on ice",56,62,on ice
+53,on ice,4,"Without much explanation, everything was put on ice",45,51,on ice
+54,on ice,5,"To avoid making things worse, he chose to put it on ice",49,55,on ice
+55,out of the blue,1,This morning she called me out of the blue,27,42,out of the blue
+56,out of the blue,2,"With no prior notice, the request arrived out of the blue",42,57,out of the blue
+57,out of the blue,3,Everything seemed settled when the issue emerged out of the blue,49,64,out of the blue
+58,out of the blue,4,"From his perspective, the reaction came out of the blue",40,55,out of the blue
+59,out of the blue,5,There was no warning sign before the clown came out of the blue,48,63,out of the blue
+60,pull someone's leg,1,The lead developer was just pulling the intern's leg,28,46,pulling the intern
+61,pull someone's leg,2,It wasn’t the kind of situation where he expected anyone to be pulling his leg,63,81,pulling his leg
+62,pull someone's leg,3,"Everyone else stayed quiet, leaving him unsure whether she was pulling his leg",63,81,pulling his leg
+63,pull someone's leg,4,"She laughed nervously, unsure whether he was pulling her leg",45,63,pulling her leg
+64,pull someone's leg,5,"She had learned to be cautious, in case someone pulled her leg",48,66,pulled her leg
+65,rough edges,1,"The author placed the manuscript on the desk, apologizing for the rough edges",66,77,rough edges
+66,rough edges,2,"The prototype worked, though it still had rough edges",42,53,rough edges
+67,rough edges,3,"After the quick assembly was complete, the inspector warned the team that the final product had rough edges",96,107,rough edges
+68,rough edges,4,"The early version was functional, but it still had rough edges",51,62,rough edges
+69,rough edges,5,"Despite its strengths, the result still had rough edges",44,55,rough edges
+70,see red,1,The special ink of the new decree was alone enough to make critics see red,67,74,see red
+71,see red,2,"When the rival striker went down easily in the box, the visiting fans' flares weren't the only reason the home crowd started to see red",128,135,see red
+72,see red,3,The senator's remarks made her opponent see red,40,47,see red
+73,see red,4,"As the implications became clear, she could feel herself see red",57,64,see red
+74,see red,5,"When the final score appeared, he suddenly began to see red",52,59,see red
+75,shut the door on,1,The prime minister decided to shut the door on,30,46,shut the door on
+76,shut the door on,2,"In that environment, people were expected to shut the door on",45,61,shut the door on
+77,shut the door on,3,"When the data failed to replicate, the team shut the door on",44,60,shut the door on
+78,shut the door on,4,"With a final motion, she shut the door on",25,41,shut the door on
+79,shut the door on,5,"After years of waiting for a response, she finally shut the door on",51,67,shut the door on
+80,spill the beans,1,During the meeting he accidentally spilled the beans,35,50,spilled the bea
+81,spill the beans,2,"During the tense negotiation in the kitchen, the chef was finally pressured to spill the beans",79,94,spill the beans
+82,spill the beans,3,"As the suspect sat across from the investigator at the cafeteria table, it looked like he was about to spill the beans",103,118,spill the beans
+83,spill the beans,4,"The children were gathered around the mysterious box in the center of the room, waiting for someone to spill the beans",103,118,spill the beans
+84,spill the beans,5,"As the magician’s apprentice prepared the prop for the final trick, the audience waited for him to spill the beans",99,114,spill the beans
+85,take a bow,1,"Before the competition started, he walked to the center to take a bow",59,69,take a bow
+86,take a bow,2,"Once the final piece was released, she allowed herself to take a bow",58,68,take a bow
+87,take a bow,3,"As the captain of the ship safely navigated the vessel through the narrow canal, he stepped outside to take a bow",103,113,take a bow
+88,take a bow,4,"The weary actor moved toward the edge of the platform, finally prepared to take a bow",75,85,take a bow
+89,take a bow,5,"After the final notes of the performance faded, the young musician stepped forward to take a bow",86,96,take a bow
+90,under the sun,1,"This morning, the scout tested the new recruits using a drill he had never tried under the sun",81,94,under the sun
+91,under the sun,2,"According to the guide, there was a solution for nearly any problem under the sun",68,81,under the sun
+92,under the sun,3,The paper claimed to examine every relevant factor under the sun,51,64,under the sun
+93,under the sun,4,The archive described inventions of every kind under the sun,47,60,under the sun
+94,under the sun,5,The campaign promised answers for almost anything under the sun,50,63,under the sun
+95,up in the air,1,We checked the tracking app and saw the delivery was currently up in the air,63,76,up in the air
+96,up in the air,2,"We watched the festival unfold, but the grand finale display was still up in the air",71,84,up in the air
+97,up in the air,3,"We have the data, but the cause of the phenomenon is still up in the air",59,72,up in the air
+98,up in the air,4,"After the last-minute change, the whole thing was still up in the air",56,69,up in the air
+99,up in the air,5,The experimental results left everything up in the air,41,54,up in the air

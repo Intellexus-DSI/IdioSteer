@@ -1,0 +1,6 @@
+model,vBRY_raw_halfcos,vBRY_raw_acc,vBRY_whit_halfcos,vBRY_whit_acc,vGJbw_raw_halfcos,vGJbw_raw_acc,vGJbw_whit_halfcos,vGJbw_whit_acc
+llama3b,0.9698,0.9973,0.9613,0.9973,0.9804,0.946,0.97,0.942
+llama8b,0.9678,0.996,0.956,0.9973,0.9776,0.952,0.9663,0.942
+gemma2_2b,0.9767,0.9987,0.9672,0.9947,0.9757,0.958,0.9611,0.95
+gemma3_4b,0.9805,0.6422,0.9662,0.9947,0.9994,0.662,0.9768,0.91
+gemma3_12b,0.9903,0.6302,0.9744,0.9907,0.9995,0.7,0.9786,0.894

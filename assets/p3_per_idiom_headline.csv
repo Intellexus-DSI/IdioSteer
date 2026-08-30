@@ -1,0 +1,101 @@
+model,idiom,headline_condition,literal_rate,baseline_literal_rate
+Llama-3.2-3B,at the crossroads,mean_diff_alpha_-10,0.6,0.24
+Llama-3.2-3B,behind bars,mean_diff_alpha_-10,0.36,0.28
+Llama-3.2-3B,break the ice,mean_diff_alpha_-10,0.6,0.08
+Llama-3.2-3B,green light,mean_diff_alpha_-10,0.72,0.36
+Llama-3.2-3B,have a ball,mean_diff_alpha_-10,0.88,0.12
+Llama-3.2-3B,in hot water,mean_diff_alpha_-10,0.32,0.04
+Llama-3.2-3B,in stitches,mean_diff_alpha_-10,0.56,0.12
+Llama-3.2-3B,in the fast lane,mean_diff_alpha_-10,0.6,0.4
+Llama-3.2-3B,in the pink,mean_diff_alpha_-10,0.64,0.0
+Llama-3.2-3B,lie low,mean_diff_alpha_-10,0.64,0.0
+Llama-3.2-3B,on ice,mean_diff_alpha_-10,0.48,0.04
+Llama-3.2-3B,out of the blue,mean_diff_alpha_-10,0.36,0.0
+Llama-3.2-3B,pull someone's leg,mean_diff_alpha_-10,0.52,0.0
+Llama-3.2-3B,rough edges,mean_diff_alpha_-10,0.48,0.2
+Llama-3.2-3B,see red,mean_diff_alpha_-10,0.52,0.08
+Llama-3.2-3B,shut the door on,mean_diff_alpha_-10,0.68,0.12
+Llama-3.2-3B,spill the beans,mean_diff_alpha_-10,0.6,0.04
+Llama-3.2-3B,take a bow,mean_diff_alpha_-10,0.4,0.04
+Llama-3.2-3B,under the sun,mean_diff_alpha_-10,0.16,0.04
+Llama-3.2-3B,up in the air,mean_diff_alpha_-10,0.24,0.12
+Llama-3.1-8B,at the crossroads,mean_diff_mult_-2.00,0.36,0.16
+Llama-3.1-8B,behind bars,mean_diff_mult_-2.00,0.44,0.16
+Llama-3.1-8B,break the ice,mean_diff_mult_-2.00,0.72,0.2
+Llama-3.1-8B,green light,mean_diff_mult_-2.00,0.64,0.32
+Llama-3.1-8B,have a ball,mean_diff_mult_-2.00,0.84,0.16
+Llama-3.1-8B,in hot water,mean_diff_mult_-2.00,0.52,0.08
+Llama-3.1-8B,in stitches,mean_diff_mult_-2.00,0.24,0.08
+Llama-3.1-8B,in the fast lane,mean_diff_mult_-2.00,0.64,0.56
+Llama-3.1-8B,in the pink,mean_diff_mult_-2.00,0.44,0.12
+Llama-3.1-8B,lie low,mean_diff_mult_-2.00,0.72,0.0
+Llama-3.1-8B,on ice,mean_diff_mult_-2.00,0.32,0.08
+Llama-3.1-8B,out of the blue,mean_diff_mult_-2.00,0.44,0.0
+Llama-3.1-8B,pull someone's leg,mean_diff_mult_-2.00,0.68,0.0
+Llama-3.1-8B,rough edges,mean_diff_mult_-2.00,0.52,0.24
+Llama-3.1-8B,see red,mean_diff_mult_-2.00,0.56,0.04
+Llama-3.1-8B,shut the door on,mean_diff_mult_-2.00,0.68,0.08
+Llama-3.1-8B,spill the beans,mean_diff_mult_-2.00,0.44,0.0
+Llama-3.1-8B,take a bow,mean_diff_mult_-2.00,0.44,0.08
+Llama-3.1-8B,under the sun,mean_diff_mult_-2.00,0.28,0.04
+Llama-3.1-8B,up in the air,mean_diff_mult_-2.00,0.32,0.08
+Gemma-2-2B,at the crossroads,mean_diff_alpha_-150,0.6,0.32
+Gemma-2-2B,behind bars,mean_diff_alpha_-150,0.44,0.16
+Gemma-2-2B,break the ice,mean_diff_alpha_-150,0.68,0.16
+Gemma-2-2B,green light,mean_diff_alpha_-150,0.68,0.36
+Gemma-2-2B,have a ball,mean_diff_alpha_-150,0.92,0.24
+Gemma-2-2B,in hot water,mean_diff_alpha_-150,0.44,0.0
+Gemma-2-2B,in stitches,mean_diff_alpha_-150,0.6,0.12
+Gemma-2-2B,in the fast lane,mean_diff_alpha_-150,0.64,0.36
+Gemma-2-2B,in the pink,mean_diff_alpha_-150,0.64,0.2
+Gemma-2-2B,lie low,mean_diff_alpha_-150,0.64,0.0
+Gemma-2-2B,on ice,mean_diff_alpha_-150,0.68,0.04
+Gemma-2-2B,out of the blue,mean_diff_alpha_-150,0.36,0.0
+Gemma-2-2B,pull someone's leg,mean_diff_alpha_-150,0.8,0.04
+Gemma-2-2B,rough edges,mean_diff_alpha_-150,0.84,0.2
+Gemma-2-2B,see red,mean_diff_alpha_-150,0.68,0.08
+Gemma-2-2B,shut the door on,mean_diff_alpha_-150,0.84,0.16
+Gemma-2-2B,spill the beans,mean_diff_alpha_-150,0.36,0.04
+Gemma-2-2B,take a bow,mean_diff_alpha_-150,0.16,0.04
+Gemma-2-2B,under the sun,mean_diff_alpha_-150,0.24,0.08
+Gemma-2-2B,up in the air,mean_diff_alpha_-150,0.24,0.08
+Gemma-3-4B,at the crossroads,mean_diff_mult_-1.5,0.4,0.2
+Gemma-3-4B,behind bars,mean_diff_mult_-1.5,0.28,0.16
+Gemma-3-4B,break the ice,mean_diff_mult_-1.5,0.32,0.16
+Gemma-3-4B,green light,mean_diff_mult_-1.5,0.52,0.32
+Gemma-3-4B,have a ball,mean_diff_mult_-1.5,0.64,0.4
+Gemma-3-4B,in hot water,mean_diff_mult_-1.5,0.16,0.08
+Gemma-3-4B,in stitches,mean_diff_mult_-1.5,0.52,0.2
+Gemma-3-4B,in the fast lane,mean_diff_mult_-1.5,0.44,0.36
+Gemma-3-4B,in the pink,mean_diff_mult_-1.5,0.56,0.0
+Gemma-3-4B,lie low,mean_diff_mult_-1.5,0.0,0.0
+Gemma-3-4B,on ice,mean_diff_mult_-1.5,0.28,0.0
+Gemma-3-4B,out of the blue,mean_diff_mult_-1.5,0.04,0.0
+Gemma-3-4B,pull someone's leg,mean_diff_mult_-1.5,0.32,0.04
+Gemma-3-4B,rough edges,mean_diff_mult_-1.5,0.32,0.36
+Gemma-3-4B,see red,mean_diff_mult_-1.5,0.32,0.0
+Gemma-3-4B,shut the door on,mean_diff_mult_-1.5,0.72,0.2
+Gemma-3-4B,spill the beans,mean_diff_mult_-1.5,0.52,0.0
+Gemma-3-4B,take a bow,mean_diff_mult_-1.5,0.56,0.0
+Gemma-3-4B,under the sun,mean_diff_mult_-1.5,0.04,0.0
+Gemma-3-4B,up in the air,mean_diff_mult_-1.5,0.28,0.12
+Gemma-3-12B,at the crossroads,mean_diff_mult_-0.5,0.48,0.2
+Gemma-3-12B,behind bars,mean_diff_mult_-0.5,0.32,0.2
+Gemma-3-12B,break the ice,mean_diff_mult_-0.5,0.36,0.0
+Gemma-3-12B,green light,mean_diff_mult_-0.5,0.6,0.28
+Gemma-3-12B,have a ball,mean_diff_mult_-0.5,0.52,0.2
+Gemma-3-12B,in hot water,mean_diff_mult_-0.5,0.4,0.04
+Gemma-3-12B,in stitches,mean_diff_mult_-0.5,0.4,0.24
+Gemma-3-12B,in the fast lane,mean_diff_mult_-0.5,0.44,0.56
+Gemma-3-12B,in the pink,mean_diff_mult_-0.5,0.56,0.2
+Gemma-3-12B,lie low,mean_diff_mult_-0.5,0.16,0.0
+Gemma-3-12B,on ice,mean_diff_mult_-0.5,0.08,0.0
+Gemma-3-12B,out of the blue,mean_diff_mult_-0.5,0.08,0.0
+Gemma-3-12B,pull someone's leg,mean_diff_mult_-0.5,0.16,0.08
+Gemma-3-12B,rough edges,mean_diff_mult_-0.5,0.4,0.28
+Gemma-3-12B,see red,mean_diff_mult_-0.5,0.2,0.12
+Gemma-3-12B,shut the door on,mean_diff_mult_-0.5,0.68,0.28
+Gemma-3-12B,spill the beans,mean_diff_mult_-0.5,0.36,0.0
+Gemma-3-12B,take a bow,mean_diff_mult_-0.5,0.4,0.08
+Gemma-3-12B,under the sun,mean_diff_mult_-0.5,0.08,0.0
+Gemma-3-12B,up in the air,mean_diff_mult_-0.5,0.16,0.12

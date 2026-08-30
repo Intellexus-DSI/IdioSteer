@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "max_pieces": 4,
+  "norms_file": "data_outputs/Concreteness_ratings_Brysbaert_et_al_BRM.txt",
+  "n_brysbaert_usable": 37056,
+  "pools": {
+    "v_BRY_concrete_ge4.5_noun": {
+      "n_pool_pre_cov": 3462,
+      "n_cov_dropped": 4,
+      "n_available": 3458,
+      "n_selected": 250,
+      "short_of_target": false
+    },
+    "v_BRY_abstract_le2.0_noun": {
+      "n_pool_pre_cov": 1372,
+      "n_cov_dropped": 3,
+      "n_available": 1369,
+      "n_selected": 250,
+      "short_of_target": false
+    },
+    "v_GJ_concrete_ge4.0_noPOS": {
+      "n_pool_pre_cov": 7660,
+      "n_cov_dropped": 17,
+      "n_available": 7643,
+      "n_selected": 500,
+      "short_of_target": false
+    },
+    "v_GJ_abstract_le2.0_noPOS": {
+      "n_pool_pre_cov": 8018,
+      "n_cov_dropped": 51,
+      "n_available": 7967,
+      "n_selected": 500,
+      "short_of_target": false
+    }
+  }
+}

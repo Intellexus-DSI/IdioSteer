@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Idiom Steering Benchmark: Evaluating Activation Steering for Figurative vs. Literal Idiom Interpretation in LLMs"
+authors:
+  - family-names: "PLACEHOLDER"
+    given-names: "PLACEHOLDER"
+year: 2026
+preferred-citation:
+  type: conference-paper
+  title: "Idiom Steering Benchmark: Evaluating Activation Steering for Figurative vs. Literal Idiom Interpretation in LLMs"
+  year: 2026
+  collection-title: "Proceedings of EMNLP 2026"
